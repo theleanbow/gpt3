@@ -2,6 +2,8 @@ import React from "react";
 // import {Article, brand, cta, feature, navbar} from './components'
 import { Brand, CTA, Navbar } from "./components";
 
+import "./App.css";
+
 import {
   Footer,
   Header,
